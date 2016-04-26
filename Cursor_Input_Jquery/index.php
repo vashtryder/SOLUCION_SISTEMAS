@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>MOVER EL CURSO CON JQUERY</title>
+	<title>MOVER EL FOCUS CON JQUERY/PHP</title>
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&amp;subset=all" rel="stylesheet" type="text/css">
 	<link href="css/style.css" rel="stylesheet" type="text/css">
-	
-
-
 </head>
 <body>
 
