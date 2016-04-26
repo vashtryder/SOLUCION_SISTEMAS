@@ -1,0 +1,27 @@
+input[type="text"] {
+  display: block;
+  margin: 0;
+  width: 100%;
+  font-family: sans-serif;
+  font-size: 18px;
+  appearance: none;
+  box-shadow: none;
+  border-radius: none;
+}
+
+input[type="text"]:focus {
+  outline: none;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    height: 70px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
